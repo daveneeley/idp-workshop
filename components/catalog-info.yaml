@@ -21,7 +21,7 @@ metadata:
     - daven
 spec:
   type: service
-  owner: change-value
+  owner: daven
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
